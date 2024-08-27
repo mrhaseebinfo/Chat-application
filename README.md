@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/mrhaseebinfo/Chat-application.git
    cd client
 2. **Install node package**
    npm install
